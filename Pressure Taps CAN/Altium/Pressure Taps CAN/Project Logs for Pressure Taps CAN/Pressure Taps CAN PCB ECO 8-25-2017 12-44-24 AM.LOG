@@ -1,0 +1,91 @@
+Added Component: Designator=C1(R0805)
+Added Component: Designator=C2(R0805)
+Added Component: Designator=C3(R0805)
+Added Component: Designator=C4(R0805)
+Added Component: Designator=C6(R0805)
+Added Component: Designator=P1(SMD 5Wire - Small)
+Added Component: Designator=P2(HDR1X6)
+Added Component: Designator=P5(SMD 4Wire)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R3(R0805)
+Added Component: Designator=R13(R0805)
+Added Component: Designator=R37(R0805)
+Added Component: Designator=U1(SOP8)
+Added Component: Designator=U2(STM32F072CBU6 - No Heatsink)
+Added Component: Designator=U*(MPXV7002DP)
+Added Component: Designator=U*(MPXV7002DP)
+Added Component: Designator=U*(MPXV7002DP)
+Added Component: Designator=U*(MPXV7002DP)
+Added Pin To Net: NetName=3.3V Pin=C1-2
+Added Pin To Net: NetName=3.3V Pin=C2-2
+Added Pin To Net: NetName=3.3V Pin=C3-2
+Added Pin To Net: NetName=3.3V Pin=C4-2
+Added Pin To Net: NetName=3.3V Pin=C6-1
+Added Pin To Net: NetName=3.3V Pin=P2-3
+Added Pin To Net: NetName=3.3V Pin=R37-2
+Added Pin To Net: NetName=3.3V Pin=U1-3
+Added Pin To Net: NetName=3.3V Pin=U2-1
+Added Pin To Net: NetName=3.3V Pin=U2-9
+Added Pin To Net: NetName=3.3V Pin=U2-24
+Added Pin To Net: NetName=3.3V Pin=U2-36
+Added Pin To Net: NetName=3.3V Pin=U2-48
+Added Net: Name=3.3V
+Added Pin To Net: NetName=14V Pin=P5-1
+Added Net: Name=14V
+Added Pin To Net: NetName=BOOT Pin=R3-2
+Added Pin To Net: NetName=BOOT Pin=U2-44
+Added Net: Name=BOOT
+Added Pin To Net: NetName=CAN1_H Pin=P5-2
+Added Pin To Net: NetName=CAN1_H Pin=R13-2
+Added Pin To Net: NetName=CAN1_H Pin=U1-7
+Added Net: Name=CAN1_H
+Added Pin To Net: NetName=CAN1_L Pin=P5-3
+Added Pin To Net: NetName=CAN1_L Pin=R13-1
+Added Pin To Net: NetName=CAN1_L Pin=U1-6
+Added Net: Name=CAN1_L
+Added Pin To Net: NetName=CANRX Pin=U1-4
+Added Pin To Net: NetName=CANRX Pin=U2-32
+Added Net: Name=CANRX
+Added Pin To Net: NetName=CANTX Pin=U1-1
+Added Pin To Net: NetName=CANTX Pin=U2-33
+Added Net: Name=CANTX
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P5-4
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-23
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-8
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NRST Pin=P1-5
+Added Pin To Net: NetName=NRST Pin=R37-1
+Added Pin To Net: NetName=NRST Pin=U2-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=SWCLK Pin=P1-2
+Added Pin To Net: NetName=SWCLK Pin=U2-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=P1-4
+Added Pin To Net: NetName=SWDIO Pin=U2-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=SWO Pin=P1-1
+Added Pin To Net: NetName=SWO Pin=U2-38
+Added Net: Name=SWO
+Added Pin To Net: NetName=UART_RX Pin=P2-4
+Added Pin To Net: NetName=UART_RX Pin=U2-11
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=P2-5
+Added Pin To Net: NetName=UART_TX Pin=U2-10
+Added Net: Name=UART_TX
+Added Class: Name=Pressure Taps CAN
+Added Room: Name=Pressure Taps CAN
